@@ -1,0 +1,28 @@
+{
+  "name": "jqueryui-touch-punch",
+  "version": "0.2.3",
+  "description": "A duck punch for adding touch events to jQuery UI http://touchpunch.furf.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furf/jquery-ui-touch-punch.git"
+  },
+  "keywords": [
+    "jquery",
+    "touch",
+    "punch"
+  ],
+  "author": "Dave Furfero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furf/jquery-ui-touch-punch/issues"
+  },
+  "homepage": "https://github.com/furf/jquery-ui-touch-punch",
+  "peerDependencies": {
+    "jquery": "^1.6",
+    "jquery-ui": "^1.8"
+  }
+}
