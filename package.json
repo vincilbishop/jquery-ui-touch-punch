@@ -21,7 +21,7 @@
     "url": "https://github.com/furf/jquery-ui-touch-punch/issues"
   },
   "homepage": "https://github.com/furf/jquery-ui-touch-punch",
-  "peerDependencies": {
+  "dependencies": {
     "jquery": "^1.6",
     "jquery-ui": "^1.8"
   }
